@@ -1,0 +1,50 @@
+body {
+  font-family: Roboto, sans-serif;
+}
+
+.navbar-brand img {
+  width: 40%;
+  height: auto;
+}
+
+p {
+  font-size: 13px;
+  font-weight: 300;
+  color: #707070;
+}
+
+h1 {
+  font-size: 21px;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 500;
+  color:#28A745;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 300;
+  color:#212529;
+}
+
+h4 {
+  font-size: 16px;
+  font-weight: 500;
+  color:#212529;
+}
+
+h5 {
+  font-size: 16px;
+  font-weight: 300;
+  color:#707070;
+}
+
+.pie-pg img {
+  width: 25%;
+  height: auto;
+  max-width: 150px;
+}
